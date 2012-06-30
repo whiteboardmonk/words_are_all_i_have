@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+	"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Words are all I have</text></docTitle>
+<docAuthor><text>Akshay Surve</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="book.html#TOC"/>
+    </navPoint>
+	<navPoint class="section" id="s1" playOrder="2">
+      <navLabel>
+        <text>Yes Baby, it's You</text>
+      </navLabel>
+      <content src="book.html#s1"/>
+    </navPoint>
+	<navPoint class="section" id="s2" playOrder="3">
+      <navLabel>
+        <text>A day I won't forget</text>
+      </navLabel>
+      <content src="book.html#s2"/>
+    </navPoint>
+	<navPoint class="section" id="s3" playOrder="4">
+      <navLabel>
+        <text>In you I see my girl</text>
+      </navLabel>
+      <content src="book.html#s3"/>
+    </navPoint>
+	<navPoint class="section" id="s4" playOrder="5">
+      <navLabel>
+        <text>To Paradise and Back</text>
+      </navLabel>
+      <content src="book.html#s4"/>
+    </navPoint>
+	<navPoint class="section" id="s5" playOrder="6">
+      <navLabel>
+        <text>Belonging</text>
+      </navLabel>
+      <content src="book.html#s5"/>
+    </navPoint>
+	<navPoint class="section" id="s6" playOrder="7">
+      <navLabel>
+        <text>Sweet November</text>
+      </navLabel>
+      <content src="book.html#s6"/>
+    </navPoint>
+	<navPoint class="section" id="s7" playOrder="8">
+      <navLabel>
+        <text>When I say, 'I love you'?</text>
+      </navLabel>
+      <content src="book.html#s7"/>
+    </navPoint>
+	<navPoint class="section" id="s8" playOrder="9">
+      <navLabel>
+        <text>Walk into my dreams</text>
+      </navLabel>
+      <content src="book.html#s8"/>
+    </navPoint>
+	<navPoint class="section" id="s9" playOrder="10">
+      <navLabel>
+        <text>How you make me feel</text>
+      </navLabel>
+      <content src="book.html#s9"/>
+    </navPoint>
+	<navPoint class="section" id="s10" playOrder="11">
+      <navLabel>
+        <text>I want you by my side</text>
+      </navLabel>
+      <content src="book.html#s10"/>
+    </navPoint>
+	<navPoint class="section" id="s11" playOrder="12">
+      <navLabel>
+        <text>I can still feel you</text>
+      </navLabel>
+      <content src="book.html#s11"/>
+    </navPoint>
+  </navMap>
+</ncx>
