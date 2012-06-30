@@ -17,71 +17,84 @@
       </navLabel>
       <content src="book.html#TOC"/>
     </navPoint>
-	<navPoint class="section" id="s1" playOrder="2">
+	<navPoint class="section" id="s0" playOrder="2">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="book.html#s0"/>
+    </navPoint>
+	<navPoint class="section" id="s1" playOrder="3">
       <navLabel>
         <text>Yes Baby, it's You</text>
       </navLabel>
       <content src="book.html#s1"/>
     </navPoint>
-	<navPoint class="section" id="s2" playOrder="3">
+	<navPoint class="section" id="s2" playOrder="4">
       <navLabel>
         <text>A day I won't forget</text>
       </navLabel>
       <content src="book.html#s2"/>
     </navPoint>
-	<navPoint class="section" id="s3" playOrder="4">
+	<navPoint class="section" id="s3" playOrder="5">
       <navLabel>
         <text>In you I see my girl</text>
       </navLabel>
       <content src="book.html#s3"/>
     </navPoint>
-	<navPoint class="section" id="s4" playOrder="5">
+	<navPoint class="section" id="s4" playOrder="6">
       <navLabel>
         <text>To Paradise and Back</text>
       </navLabel>
       <content src="book.html#s4"/>
     </navPoint>
-	<navPoint class="section" id="s5" playOrder="6">
+	<navPoint class="section" id="s5" playOrder="7">
       <navLabel>
         <text>Belonging</text>
       </navLabel>
       <content src="book.html#s5"/>
     </navPoint>
-	<navPoint class="section" id="s6" playOrder="7">
+	<navPoint class="section" id="s6" playOrder="8">
       <navLabel>
         <text>Sweet November</text>
       </navLabel>
       <content src="book.html#s6"/>
     </navPoint>
-	<navPoint class="section" id="s7" playOrder="8">
+	<navPoint class="section" id="s7" playOrder="9">
       <navLabel>
         <text>When I say, 'I love you'?</text>
       </navLabel>
       <content src="book.html#s7"/>
     </navPoint>
-	<navPoint class="section" id="s8" playOrder="9">
+	<navPoint class="section" id="s8" playOrder="10">
       <navLabel>
         <text>Walk into my dreams</text>
       </navLabel>
       <content src="book.html#s8"/>
     </navPoint>
-	<navPoint class="section" id="s9" playOrder="10">
+	<navPoint class="section" id="s9" playOrder="11">
       <navLabel>
         <text>How you make me feel</text>
       </navLabel>
       <content src="book.html#s9"/>
     </navPoint>
-	<navPoint class="section" id="s10" playOrder="11">
+	<navPoint class="section" id="s10" playOrder="12">
       <navLabel>
         <text>I want you by my side</text>
       </navLabel>
       <content src="book.html#s10"/>
     </navPoint>
-	<navPoint class="section" id="s11" playOrder="12">
+	<navPoint class="section" id="s11" playOrder="13">
       <navLabel>
         <text>I can still feel you</text>
       </navLabel>
       <content src="book.html#s11"/>
+    </navPoint>
+  </navMap>
+	<navPoint class="section" id="s12" playOrder="13">
+      <navLabel>
+        <text>Postface</text>
+      </navLabel>
+      <content src="book.html#s12"/>
     </navPoint>
   </navMap>
 </ncx>
